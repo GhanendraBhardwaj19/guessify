@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/guessify/static/css/main.0224f255.css",
-    "main.js": "/guessify/static/js/main.11746cae.js",
-    "static/media/jinie.png": "/guessify/static/media/jinie.dc20a613dc537dee8e54.png",
-    "index.html": "/guessify/index.html",
-    "main.0224f255.css.map": "/guessify/static/css/main.0224f255.css.map",
-    "main.11746cae.js.map": "/guessify/static/js/main.11746cae.js.map"
+    "main.css": "/guess-it/static/css/main.a4b8ed3e.css",
+    "main.js": "/guess-it/static/js/main.199a4a62.js",
+    "static/media/jinie.png": "/guess-it/static/media/jinie.dc20a613dc537dee8e54.png",
+    "index.html": "/guess-it/index.html",
+    "main.a4b8ed3e.css.map": "/guess-it/static/css/main.a4b8ed3e.css.map",
+    "main.199a4a62.js.map": "/guess-it/static/js/main.199a4a62.js.map"
   },
   "entrypoints": [
-    "static/css/main.0224f255.css",
-    "static/js/main.11746cae.js"
+    "static/css/main.a4b8ed3e.css",
+    "static/js/main.199a4a62.js"
   ]
 }
